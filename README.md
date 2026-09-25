@@ -1,6 +1,12 @@
 # Hi, I'm Emy 👋
 
-Full-stack developer & AI automation builder based in Austin, TX. B.S. Data Analytics candidate @ WGU. I like working at the intersection of code, data, and intelligent systems — building products end-to-end and digging into datasets to find the story in them.
+Data analytics professional with 5+ years of experience in semiconductor manufacturing and technical operations, with a strong foundation in process analysis, troubleshooting, data quality, and operational problem-solving. B.S. Data Analytics, Western Governors University. Based in Austin, TX.
+
+At Samsung Semiconductor, I work with manufacturing and process data to monitor system performance, identify downtime and production issues, investigate abnormalities, and support engineering teams in a high-volume manufacturing environment.
+
+I'm particularly interested in opportunities in **Data Analytics, Operations Analytics, Manufacturing Analytics, Business Intelligence, and entry-path Data Engineering.**
+
+**Core strengths:** SQL • Python • Power BI • Tableau • Excel • PostgreSQL • AWS • ETL • Data Modeling • Statistical Analysis • Data Quality • Process Improvement
 
 ## 📊 Data & ML projects
 
@@ -14,13 +20,17 @@ Full-stack developer & AI automation builder based in Austin, TX. B.S. Data Anal
 
 ## 🛠️ Tools & Languages
 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 🚧 Also built
