@@ -1,8 +1,8 @@
 # Hi, I'm Emy 👋
 
-Data Analytics graduate focused on SQL, Python, and Power BI.
+Data analytics professional working with SQL, Python, and Power BI.
 
-Building projects in data analysis, visualization, and data engineering.
+Building projects that turn raw data into useful insights.
 
 B.S. Data Analytics, Western Governors University | Austin, TX
 
