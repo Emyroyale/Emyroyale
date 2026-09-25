@@ -1,12 +1,10 @@
 # Hi, I'm Emy 👋
 
-Data analytics professional with 5+ years of experience in semiconductor manufacturing and technical operations, with a strong foundation in process analysis, troubleshooting, data quality, and operational problem-solving. B.S. Data Analytics, Western Governors University. Based in Austin, TX.
+Data Analytics graduate focused on SQL, Python, and Power BI.
 
-At Samsung Semiconductor, I work with manufacturing and process data to monitor system performance, identify downtime and production issues, investigate abnormalities, and support engineering teams in a high-volume manufacturing environment.
+Building projects in data analysis, visualization, and data engineering.
 
-I'm particularly interested in opportunities in **Data Analytics, Operations Analytics, Manufacturing Analytics, Business Intelligence, and entry-path Data Engineering.**
-
-**Core strengths:** SQL • Python • Power BI • Tableau • Excel • PostgreSQL • AWS • ETL • Data Modeling • Statistical Analysis • Data Quality • Process Improvement
+B.S. Data Analytics, Western Governors University | Austin, TX
 
 ## 📊 Data & ML projects
 
