@@ -8,6 +8,8 @@ Full-stack developer & AI automation builder based in Austin, TX. B.S. Data Anal
 
 ## 📊 Data & ML projects
 
+- **[Identify Customer Segments](https://github.com/Emyroyale/identify-customer-segments)** — unsupervised learning (PCA + K-means) segmenting a mail-order company's customer base to find which demographic segments to target.
+- **[Analyze A/B Test Results](https://github.com/Emyroyale/analyze-ab-test-results)** — hypothesis testing and logistic regression on an e-commerce A/B test to recommend whether to ship a new page.
 - **[US Tech Workforce Compensation Analysis](https://github.com/Emyroyale/US-tech-workforce-compensation-analysis)** — end-to-end data wrangling comparing tech salaries to cost of living across U.S. metro areas.
 - **[YouTube Trending Videos Analysis](https://github.com/Emyroyale/youtube-trending-videos-analysis)** — Tableau Public dashboards exploring what drives YouTube trending behavior.
 - **[Auto Insurance Fraud Detection](https://github.com/Emyroyale/auto-insurance-fraud-detection)** — classification model identifying fraudulent insurance claims.
@@ -20,6 +22,7 @@ Full-stack developer & AI automation builder based in Austin, TX. B.S. Data Anal
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
