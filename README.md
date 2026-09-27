@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Emy Kirugo — Data Analytics banner" width="100%" />
+  <img src="assets/banner.png" alt="Emy Kirugo — Data Analytics banner" width="100%" />
 </div>
 
 <div align="center">
