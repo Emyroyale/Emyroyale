@@ -4,7 +4,13 @@
 
 <div align="center">
 
-### Data analytics professional turning raw data into decisions — SQL, Python, and Power BI.
+### Data Engineering | Analytics Engineering | AI Automation
+
+I build data pipelines, analytics systems, and automation
+projects using SQL, Python, PostgreSQL, AWS, and Power BI.
+
+Currently building:
+→ E-commerce ELT Pipeline
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emy%20Kirugo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emy-kirugo-b40a78381)
 [![FlowSpaceFocus](https://img.shields.io/badge/Live%20Product-FlowSpaceFocus-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://flowspacefocus.com)
